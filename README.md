@@ -1,2 +1,4 @@
 # Resume
-My first ML based project .
+My first ML based project.
+<br>
+Owner - Shreya Pandey
